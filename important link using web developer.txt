@@ -5,3 +5,9 @@
 
 /* css Importing Google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Miniver&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&display=swap');
+
+
+
+
+								/* color code */
+ --bg-color: #493d48;
